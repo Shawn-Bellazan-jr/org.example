@@ -1,0 +1,15 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Shawn Bellazan",
+  "classifications": [ "Console" ],
+  "name": "Example Console App",
+  "identity": "org.example.csharp",
+  "groupIdentity": "org.tooensure",
+  "shortName": "tns",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "Example.Console",
+  "preferNameDirectory": true
+}
